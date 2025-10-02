@@ -35,11 +35,6 @@ Este projeto foi desenvolvido com foco acadêmico, buscando unir **tecnologia e 
 
 # Codigos💻
 
-
-O **AgroCitro** é um sistema web voltado para o **gerenciamento de atividades agrícolas**, integrando páginas dinâmicas (**HTML, CSS e JavaScript**), um **servidor Node.js** e um **banco de dados SQL** para armazenamento de informações.
-
-Este guia passo a passo cobrirá a configuração do ambiente, a instalação das dependências, a configuração do banco de dados e a inicialização do servidor, garantindo que sua aplicação Node.js e Express funcione corretamente.
-
 ## Pré-requisitos
 
 Para rodar esta aplicação, você deve ter instalado:
